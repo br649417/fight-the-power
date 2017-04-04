@@ -210,9 +210,10 @@ body {
 				}
 			}
 		}
-		@media screen and (max-width: 755px) {
+		@media screen and (max-width: 750px) {
 			#participate-bubbles {
 				padding: 0 10px;
+				display: none;
 				margin: 5px auto;
 			}
 		}

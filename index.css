@@ -158,9 +158,10 @@ body {
     @media screen and (max-width: 305px) {
       body #participate #participate-bubbles .participate-bubble .participate-body {
         width: 60%; } }
-  @media screen and (max-width: 755px) {
+  @media screen and (max-width: 750px) {
     body #participate #participate-bubbles {
       padding: 0 10px;
+      display: none;
       margin: 5px auto; } }
   @media screen and (max-width: 755px) {
     body #participate {
