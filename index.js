@@ -8,5 +8,9 @@ $(document).ready(function () {
 		$("#mobile-modal").fadeOut(300);
 	});
 
+	if ($(window).width() < 750) {
+		$("#ten-forty-doc").remove();
+	}
+
 
 });
