@@ -253,7 +253,7 @@ body {
         margin: 0 auto; } }
   body #share .share-text {
     margin: 25px;
-    text-align: right;
+    text-align: center;
     color: #8c0219; }
     body #share .share-text #icon-holder .fb-share-button {
       display: inline-block; }
