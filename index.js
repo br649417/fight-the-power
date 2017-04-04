@@ -8,4 +8,5 @@ $(document).ready(function () {
 		$("#mobile-modal").fadeOut(300);
 	});
 
+
 });
